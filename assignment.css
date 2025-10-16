@@ -12,4 +12,12 @@
 }
 
 /* Add your CSS styles below this line */
+p:hover::after {
+    background-color: aquamarine;
+    content: "Now for $29"
+}
 
+a{
+    background-color: rgb(253, 157, 157);
+    padding: 7%;
+}
